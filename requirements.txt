@@ -1,3 +1,6 @@
-pytelegrambotapi
+aiogram==2.25
 python-dotenv
+aiohttp
+
+
 
